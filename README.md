@@ -62,4 +62,4 @@
 
 ## 프로젝트 상세 정보
 
-- [보고서](https://cyclic-river-4c1.notion.site/2-2-2-43af810df24340879a80b9b46e95b4c3?pvs=4)
+- [보고서](https://kor-financial-market-dashboard.notion.site/2-2-2-43af810df24340879a80b9b46e95b4c3?pvs=4)
