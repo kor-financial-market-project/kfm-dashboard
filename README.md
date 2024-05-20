@@ -4,10 +4,14 @@
 - extract directory : 데이터 수집/적재 관련 코드를 위한 저장소
 - auto directory : 데이터 수집/적재 자동화 관련 코드를 위한 저장소
 
+<br/>
+
 ## 프로젝트 주제
 
 한국 은행의 데이터를 활용해서 우리나라의 여러 금융 요소들을 살펴보고, 어떤 요소에 영향을 받는지 알아보는 대시보드를 만들었습니다.<br/>
 각 챕터별로 대시보드를 만들었고, 환율과 소비량에 따른 물가의 관계, 부동산, 경제 심리 지수 각각에 대한 데이터 수집, 적재, 분석을 진행했습니다.
+
+<br/>
 
 ## 활용 언어, 기술 및 프레임워크
 
@@ -17,26 +21,44 @@
 - 스케줄링(자동화): AWS EventBridge, AWS Lambda, Boto3
 - 네트워크/보안 : AWS IAM, AWS VPC
 
+<br/>
+
 ## 활용 데이터
 
 [한국은행 Open API 서비스](https://ecos.bok.or.kr/api/#/)
 
+<br/>
+
 ## 대시보드
 
+### Chapter. 소비/환율
+
 ![kor-financial-market-2024-05-19T23-48-21 630Z](https://github.com/kor-financial-market-project/kfm-dashboard/assets/64184518/9d54313e-9d14-4092-b8ca-18d6ba1bafc3)
+
+### Chapter. 부동산
+
+![kor-financial-market-2024-05-20T04-42-30 518Z](https://github.com/kor-financial-market-project/kfm-dashboard/assets/64184518/2c4ad26f-81ce-4b4d-b846-7ea8bd740c05)
+
+### Chapter. 경제심리지수
+
 ![project_screenshot](https://github.com/kor-financial-market-project/kfm-dashboard/assets/64184518/703e4268-b439-42ab-90e1-7f07e51b0a24)
+
+<br/>
 
 ## 시스템 구조도
 
 ![extract_automation_diagram drawio (2) (1)](https://github.com/kor-financial-market-project/kfm-dashboard/assets/64184518/2cbae295-32ff-4b3e-8853-2753a92967de)
 
+<br/>
+
 ## 참여자 정보/역할
 
-1. 이정화 : 물가지수,환율 관련 데이터 수십 및 ETL, 대시보드 개발
+1. 이정화 : 물가지수,환율 관련 데이터 수집 및 ETL, 대시보드 개발
 2. 이하영 
 3. 정승현 : 소비지출 관련 데이터 수집 및 ETL, 자동화 인프라 구축, 대시보드 개발
 4. 최은희 : 경제심리지수 관련 데이터 수집 및 ETL, 대시보드 개발
 
+<br/>
 
 ## 프로젝트 상세 정보
 
