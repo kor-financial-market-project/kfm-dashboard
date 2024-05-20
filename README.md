@@ -6,14 +6,10 @@
 
 ## 프로젝트 주제
 
----
-
-한국 은행의 데이터를 활용해서 우리나라의 여러 금융 요소들을 살펴보고, 어떤 요소에 영향을 받는지 알아보는 대시보드를 만들었습니다.
+한국 은행의 데이터를 활용해서 우리나라의 여러 금융 요소들을 살펴보고, 어떤 요소에 영향을 받는지 알아보는 대시보드를 만들었습니다.<br/>
 각 챕터별로 대시보드를 만들었고, 환율과 소비량에 따른 물가의 관계, 부동산, 경제 심리 지수 각각에 대한 데이터 수집, 적재, 분석을 진행했습니다.
 
 ## 활용 언어, 기술 및 프레임워크
-
----
 
 - 프로그래밍 언어 : Python, SQL
 - 데이터 수집 : OpenAPI
@@ -23,26 +19,18 @@
 
 ## 활용 데이터
 
----
-
 [한국은행 Open API 서비스](https://ecos.bok.or.kr/api/#/)
 
 ## 대시보드
-
----
 
 ![kor-financial-market-2024-05-19T23-48-21 630Z](https://github.com/kor-financial-market-project/kfm-dashboard/assets/64184518/9d54313e-9d14-4092-b8ca-18d6ba1bafc3)
 ![project_screenshot](https://github.com/kor-financial-market-project/kfm-dashboard/assets/64184518/703e4268-b439-42ab-90e1-7f07e51b0a24)
 
 ## 시스템 구조도
 
----
-
-![extract_automation_diagram drawio (3)](https://github.com/kor-financial-market-project/kfm-dashboard/assets/64184518/afc8c0de-dfb8-49f2-a798-93f4a82e483b)
+![extract_automation_diagram drawio (2) (1)](https://github.com/kor-financial-market-project/kfm-dashboard/assets/64184518/2cbae295-32ff-4b3e-8853-2753a92967de)
 
 ## 참여자 정보/역할
-
----
 
 1. 이정화 : 물가지수,환율 관련 데이터 수십 및 ETL, 대시보드 개발
 2. 이하영 
@@ -51,7 +39,5 @@
 
 
 ## 프로젝트 상세 정보
-
----
 
 - [보고서](https://cyclic-river-4c1.notion.site/2-2-2-43af810df24340879a80b9b46e95b4c3?pvs=4)
