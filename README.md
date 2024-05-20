@@ -63,3 +63,5 @@
 ## 프로젝트 상세 정보
 
 - [보고서](https://kor-financial-market-dashboard.notion.site/2-2-2-43af810df24340879a80b9b46e95b4c3?pvs=4)
+- [소개자료.pdf](https://github.com/kor-financial-market-project/kfm-dashboard/files/15377607/_2._._.pdf)
+
